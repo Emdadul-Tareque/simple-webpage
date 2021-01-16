@@ -1,49 +1,40 @@
-.header{
-    display: flex;
-    justify-content: space-around;
-    height: 50px;
-    
-    
+.header {
+  display: flex;
+  justify-content: space-around;
+  height: 50px;
 }
 
 .logo img {
-    width: 70px;
+  width: 70px;
 }
 
-.search{
-    height: 30px;
-    width: 200px;
-    border: 2px solid black;
-  
-   
+.search {
+  height: 30px;
+  width: 200px;
+  border: 2px solid black;
 }
 
-
-.nav-bar{
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-    margin-top: 20px;
-   
-    border: 2px solid black;
-    background-color: tomato;
-    height: 30px;
+.nav-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-top: 20px;
+  border: 2px solid black;
+  background-color: tomato;
+  height: 30px;
 }
 
-.nav-bar a{
-    text-decoration: none;
-    font-size: larger;
-    font-weight: bold;
-    color: black;
-                                                
+.nav-bar a {
+  text-decoration: none;
+  font-size: larger;
+  font-weight: bold;
+  color: black;
 }
 
-
-.banner{
-    background-image: url("images/Building-1440x400.jpg");
-    background-position: 50% 50%;
-    background-repeat: no-repeat;
-    height: 500px;
-    width: 100%;
-    
+.banner {
+  background-image: url("images/Building-1440x400.jpg");
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  height: 500px;
+  width: 100%;
 }
